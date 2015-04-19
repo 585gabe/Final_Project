@@ -1,4 +1,5 @@
 # FinalProject
+
 Project Summary:
 This project offers the user a way to get weather information from the command line in Unix. 
 The program executable, when called, will then offer the user a menu. The menu has options to request weather
