@@ -1,4 +1,5 @@
 # FinalProject
+#BY: Corwin Sheahan and Gabriel Walker
 
 Project Summary:
 This project offers the user a way to get weather information from the command line in Unix. 
