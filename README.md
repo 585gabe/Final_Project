@@ -1,4 +1,4 @@
-# _____FinalProject_____
+# FinalProject
 ## BY: Corwin Sheahan and Gabriel Walker
 
 Project Summary:
