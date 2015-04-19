@@ -19,7 +19,7 @@ of third-party software is required.
 
 System requirements:
 This program will run on any modern machine running a Linux operating system. Support is currently not 
-available for other operating systems.
+available for other operating systems. Aditionaly, the user must have python 3.4 or above installed.
 
 Group Members:
 Corwin Sheahan, Gabriel Walker
@@ -31,3 +31,5 @@ Open issues/bugs:
 Would like to offer support for different operating systems. At this point, the code is dependent upon
 the structure of the file system used in Linux and is not compatible with any other operating system.
 
+References:
+https://developer.yahoo.com/weather/
